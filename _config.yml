@@ -1,0 +1,28 @@
+name: California Rowing Club
+favicon: null
+layout_spectrum: 0.3810031951870769
+typography_spectrum: 0.19399796798825264
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7938778246752918
+  lightness: 0.4226677296683192
+  saturation: 0.3632365472149104
+  rhythmicContrast: 0.5196626638062298
+purpose: []
